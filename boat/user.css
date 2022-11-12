@@ -1,0 +1,18 @@
+.adminpage{
+    margin-top: 39px;
+    background-color: #252525;
+    color: white;
+}
+#cuntent>h1{
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    
+}
+#cuntent>p{
+    font-size: 20px;
+    color: rgb(169, 169, 169);
+}
+#userdata{
+    border: 3px solid rgba(169, 169, 169, 0.786);
+    padding: 10px;
+    border-radius: 20px;
+}

@@ -1,0 +1,22 @@
+#pro{
+    margin-top: 63px;
+    background-color: black;
+}
+#jaysukh{
+    transition: all 0.4s linear;
+    border-radius: 20px 20px 20px 20px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+
+}
+#jaysukh:hover{
+    -webkit-transform: scale(1.03);
+    -ms-transform: scale(1.03);
+    transform: scale(1.03);
+}
+#offer{
+    background-color: #f2f0f1;
+}
+#valid{
+    color: gray;
+    font-size: 1.3vw;
+}

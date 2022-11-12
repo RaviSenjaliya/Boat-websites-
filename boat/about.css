@@ -1,0 +1,33 @@
+#aboutbody{
+    background-color: black;
+    color: white;
+   padding-top: 57px;
+}
+.bold{
+    font-size: 3vw;
+}
+.rajan{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+span{
+    color: red;
+    font-size: 2vw;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.spann{
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+}
+.h44{
+    font-size: 2vw;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(188, 188, 188);
+}
+.org{
+    color: rgb(255, 123, 0);
+}
+.green{
+    color: green;
+}

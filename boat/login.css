@@ -1,0 +1,60 @@
+
+ #loginpage{
+    margin-top: 44px;
+    background-color: rgb(40, 40, 40);
+    color: white;
+  }
+  #loginpage>h1{
+     font-size: 4vw;
+     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  #loginpage>p{
+     font-size: 1.4vw;
+  }
+  .userform {
+    width: 50%;
+    margin: 0 auto;
+    border-radius: 20px 20px 20px 20px;
+    background-color: rgb(48, 48, 48);
+    box-shadow: rgba(1, 1, 1, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  }
+  
+  .texts {
+    width: 80%;
+    box-sizing: border-box;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-position: 10px 10px;
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+  }
+  
+  textarea {
+    max-width: 80%;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: rgb(255, 255, 255);
+    background-position: 10px 10px;
+    background-repeat: no-repeat;
+  }
+  .form {
+    width: 80%;
+    padding: 10px;
+    background-color: red; 
+    color: white;
+    border-radius: 5px;
+  }
+  .form:hover {
+    transition: all 0.3s ease-in-out;
+    transform: scale(0.98);
+  }
+  .data{
+    width: 60%;
+    margin: 0 auto;
+    border-radius: 5px;
+  }
+  
